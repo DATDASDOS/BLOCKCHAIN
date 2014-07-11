@@ -1,5 +1,6 @@
 composer.phar
-vendor/
+vendor/8fb2f8e6-e6ca-4f50-9b08-c3e2793a14d5
+vendor/4a4bb380cc4a1e70aa2bd88648f872dcebe9c6d0
 
 # Commit your application's lock file http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file
 # You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
